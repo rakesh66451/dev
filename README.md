@@ -5,4 +5,5 @@ class user {
     this.name = name;
     this.year = year;
   }
+  
 }
